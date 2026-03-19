@@ -146,3 +146,5 @@ for (let i = 0; i < mixed.length; i++) {
     console.log('not number');
   }
 }
+// first commit 作成していなかったため同じ内容でのPUSH
+
